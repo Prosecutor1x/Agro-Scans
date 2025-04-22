@@ -1,0 +1,4 @@
+/models
+/fastapi-plant
+/__pycache__
+/.mypy_cache

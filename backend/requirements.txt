@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+jinja2
+tensorflow==2.18.0
+numpy
+pillow
+ollama
+python-multipart
+uuid
